@@ -78,6 +78,7 @@ We welcome contributions from the community! To contribute:
 For inquiries or feedback, feel free to reach out:
 
 📧 **Email:**  uaimen337@gmail.com
+
 💼 **LinkedIn:** [Um e Aimen](www.linkedin.com/in/um-e-aimen-823378245)  
 
 ---
