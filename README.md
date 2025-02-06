@@ -21,7 +21,7 @@ Whether you're searching for **chic casual wear, elegant formal outfits, or bold
 ## **🖼️ Screenshots**
 
 ### **Home Screen** – Browse a variety of outfits from top brands.  
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](assets/HomeScreen.jpg)
 
 ### **Product Details** – Get all the details you need before making a purchase.  
 ![Product Details](screenshots/product_details.png)
