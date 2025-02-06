@@ -11,10 +11,23 @@ Whether you're searching for **chic casual wear, elegant formal outfits, or bold
 - 🌟 **Explore Stunning Collections** – Browse through a curated selection of trendy outfits with high-quality images and detailed descriptions.
 - ❤️ **Save Your Favorites** – Add items to your wishlist and keep track of your must-have styles.
 - 🛒 **Seamless Cart & Checkout** – Effortlessly add items to your cart and enjoy a smooth, hassle-free checkout experience.
+- ➖ **Remove from Cart** – Easily manage your selections by removing unwanted items from your cart.
 - 🔐 **Personalized User Experience** – Create an account and receive tailored fashion recommendations.
 - 🚀 **Exclusive Offers & Flash Sales** – Get instant alerts about limited-time discounts and new arrivals.
 - 🔔 **Push Notifications** – Stay ahead of the fashion game with real-time updates on trending styles.
-- 📦 **Order Tracking & Secure Payments** – Shop with confidence and track your purchases every step of the way.
+
+---
+
+## **🖼️ Screenshots**
+
+### **Home Screen** – Browse a variety of outfits from top brands.  
+![Home Screen](screenshots/home_screen.png)
+
+### **Product Details** – Get all the details you need before making a purchase.  
+![Product Details](screenshots/product_details.png)
+
+### **Cart** – Manage your selected fashion pieces before checking out.  
+![Cart](screenshots/cart_screen.png)
 
 ---
 
@@ -34,8 +47,8 @@ Follow these steps to set up and run the AURA Boutique app locally:
 
 ### **1. Clone the Repository**
 ```bash
- git clone https://github.com/your-username/AURA-Boutique.git
- cd AURA-Boutique
+ git clone https://github.com/your-username/AURA-Boutique-App.git
+ cd AURA-Boutique-App
 ```
 
 ### **2. Install Dependencies**
@@ -61,19 +74,13 @@ We welcome contributions from the community! To contribute:
 
 ---
 
-## **📜 License**
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
 
 ## **📬 Contact**
 
 For inquiries or feedback, feel free to reach out:
 
-📧 **Email:** your-email@example.com  
-🌐 **GitHub:** [your-username](https://github.com/your-username)  
-💼 **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)  
+📧 **Email:**  uaimen337@gmail.com
+💼 **LinkedIn:** [Um-e-Aimen](www.linkedin.com/in/um-e-aimen-823378245)  
 
 ---
 
