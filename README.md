@@ -27,7 +27,7 @@ Whether you're searching for **chic casual wear, elegant formal outfits, or bold
 ![Product Details](screenshots/product_details.png)
 
 ### **Cart** – Manage your selected fashion pieces before checking out.  
-![Cart](assets/Add-to-Cart.jpg)
+![Cart](assets/AddtoCart.jpg)
 
 ---
 
